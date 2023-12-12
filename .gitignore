@@ -1,0 +1,5 @@
+# VSCode configuration files
+.vscode
+
+# Misc
+.DS_Store
